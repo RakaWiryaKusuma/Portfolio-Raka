@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Parallax Scrolling Website",
+    "desc": "Parallax scrolling is a web design technique in which the website background moves at a slower pace than the foreground.",
+    "image": "Parallax",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rakawiryakusuma.github.io/Parallax-Website/",
+      "code": "https://github.com/RakaWiryaKusuma/Parallax-Website.git"
+    }
+  },
+  {
+    "name": "Seija's Magazine",
+    "desc": "ini adalah website yang isinya karya siswa-siswi X-SIJA.",
+    "image": "magazine",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Link-List",
+    "desc": "projek ini sudah lama saya buat saat SMP dan ini berfungsi untuk akses cepat ke media sosial saya.",
+    "image": "link-list",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rakawiryakusuma.github.io/Link-List-Rakzz-Store/",
+      "code": "https://github.com/RakaWiryaKusuma/Link-List-Rakzz-Store.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "website personal portfolio.",
+    "image": "portfolioo",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Simple calculator",
+    "desc": "Buat Menghitung.",
+    "image": "kalkulator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rakawiryakusuma.github.io/simplekalkulator/",
+      "code": "https://github.com/RakaWiryaKusuma/simplekalkulator.git"
+    }
+  }
+]
